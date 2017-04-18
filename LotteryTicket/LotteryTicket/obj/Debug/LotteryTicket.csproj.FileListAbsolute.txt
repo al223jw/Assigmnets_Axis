@@ -1,0 +1,12 @@
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.exe.config
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.exe
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.pdb
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.exe
+D:\Visual Studio\Project\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.pdb
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.exe.config
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.exe
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\bin\Debug\LotteryTicket.pdb
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.exe
+C:\Users\anton\Desktop\Assigments_1-3\LotteryTicket\LotteryTicket\obj\Debug\LotteryTicket.pdb

@@ -1,0 +1,18 @@
+D:\Visual Studio\Project\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\Visual Studio\Project\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+D:\Visual Studio\Project\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\Visual Studio\Project\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\SortNumbers\SortNumbers\obj\Debug\SortNumbers.exe
+D:\Visual Studio\Project\SortNumbers\SortNumbers\obj\Debug\SortNumbers.pdb
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.exe
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.pdb
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\Visual Studio\Project\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\anton\Desktop\Assigments_1-3\SortNumbers\SortNumbers\obj\Debug\SortNumbers.pdb

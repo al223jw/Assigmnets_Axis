@@ -1,0 +1,18 @@
+D:\Visual Studio\Project\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+D:\Visual Studio\Project\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+D:\Visual Studio\Project\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+D:\Visual Studio\Project\CountLetters\CountLetters\obj\Debug\CountLetters.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+D:\Visual Studio\Project\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+D:\Visual Studio\Project\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+C:\Users\anton\Desktop\Assigments_1-3\CountLetters\CountLetters\obj\Debug\CountLetters.pdb
